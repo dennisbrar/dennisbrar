@@ -6,12 +6,12 @@ I'm an Engineering student majoring in Mechatronics and minoring in Aerospace an
 
 1. Line Following Robot with the ability to start and stop autonomously
 
-<video src="https://user-images.githubusercontent.com/82204937/133346698-3fe2e4ae-c964-4dc9-ab18-6ad65b0443ae.mp4" height="50%">
+https://user-images.githubusercontent.com/82204937/133346698-3fe2e4ae-c964-4dc9-ab18-6ad65b0443ae.mp4
 
 3. A method and system to track and record a moving object, developed for real world application
 
-<video src="https://user-images.githubusercontent.com/82204937/133346698-3fe2e4ae-c964-4dc9-ab18-6ad65b0443ae.mp4" height="50%">
+https://user-images.githubusercontent.com/82204937/133346698-3fe2e4ae-c964-4dc9-ab18-6ad65b0443ae.mp4
 
 4. A functioning UAV with search and rescue functionalities, such as object detection and payload drop off
 
-<video src="https://user-images.githubusercontent.com/82204937/133346698-3fe2e4ae-c964-4dc9-ab18-6ad65b0443ae.mp4" height="50%">
+https://user-images.githubusercontent.com/82204937/133346698-3fe2e4ae-c964-4dc9-ab18-6ad65b0443ae.mp4
