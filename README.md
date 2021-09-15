@@ -2,6 +2,16 @@
 
 I'm an Engineering student majoring in Mechatronics and minoring in Aerospace and Robotics.
 
+## Technical (coding) Skills
+
+1. Python
+2. ROS
+3. C
+4. MATLAB
+5. Computer Vision
+6. Robotic Process Automation
+7. C#
+
 ## Projects
 
 1. Line Following Robot with the ability to start and stop autonomously
