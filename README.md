@@ -1,7 +1,7 @@
 # Hi, I'm Dennis (Shahzad)
 
 ## About me
-I'm an Engineering student majoring in Mechatronics and minoring in Aerospace and Robotics.
+I'm an Engineering student majoring in Mechatronics and minoring in Aerospace and Robotics at QUT. I am an avid follower of electric vehicles, aerospace and consumer electronics technology.
 
 ## Technical (coding) Skills
 1. Python
