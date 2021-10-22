@@ -21,6 +21,6 @@ I'm an Engineering student majoring in Mechatronics and minoring in Aerospace an
 
 ![Video of the autonomous camera tracking system](https://user-images.githubusercontent.com/82204937/133351410-7bbe5270-3132-4761-89e5-94ee3881aba4.gif)
 
-3. A functioning UAV with search and rescue functionalities, such as object detection and payload drop off. Below are videos of the UAV during initial testing stage completing a 4 waypoint (square) and a payload drop.
+3. UAV with search and rescue functionalities, such as object detection and payload drop off. Below are videos of the UAV during initial testing stage completing a 4 waypoint (square) and a payload drop.
 
 ![Video of demo wp with yaw](https://user-images.githubusercontent.com/82204937/133353098-8f8cad22-f0f1-4d08-9fce-d817eb6b7ed2.gif) ![Video of payload drop](https://user-images.githubusercontent.com/82204937/133352439-183a0451-b374-4b59-8c3b-b9022b47922d.gif)
