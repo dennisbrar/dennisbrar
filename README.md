@@ -6,7 +6,7 @@ I'm an Engineering student majoring in Mechatronics and minoring in Aerospace an
 ## Technical (coding) Skills
 1. Python
 2. ROS
-3. C
+3. C/C++
 4. MATLAB
 5. Computer Vision
 6. Robotic Process Automation
